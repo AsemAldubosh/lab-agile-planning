@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**As a** CFO  
- **I need** yearly procurement report
- **So that** I can set a budget plan for the next year 
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
  ### Details and Assumptions
- * We have a list of all procurement in our ERP System, and our ERP has an API that we can use
-
+ * [document what you know]
+   
  ### Acceptance Criteria  
    
  ```gherkin
- Given there are 1000 rows in our procurement DB
- When there are 100 returned goods
- Then I should get a report containing 900 rows
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
