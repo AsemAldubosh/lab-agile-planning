@@ -1,5 +1,5 @@
 ---
-name: All Clients Balances Report
+name: User Story
 about: Finance Report
 title: ''
 labels: ''
