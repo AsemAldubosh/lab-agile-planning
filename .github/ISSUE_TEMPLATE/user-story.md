@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Finance Report
+about: User Story Template
 title: ''
 labels: ''
 assignees: ''
